@@ -1,4 +1,4 @@
-# CSV Query Generator
+# CSV-SQL statement Generator
 
 This tool will generate sql statements for you, susbtituting placeholder tags in the statement you write with data obtained from a csv or spreadsheet file.
 
